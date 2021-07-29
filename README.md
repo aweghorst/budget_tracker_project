@@ -5,6 +5,9 @@
   ## Description:
 
   This app utilizes IndexedDB and Service Workers to allow for offline functionality of a web app in the event the user loses internet connection, the app still tracks their inputs and uploads the data once internet has been restored.
+  
+  ## Deployed Link:
+  https://limitless-sands-51015.herokuapp.com/
 
   ## Table of Contents:
 
